@@ -32,15 +32,7 @@ Dosen    : Agung Nugroho, S.Kom., M.KOM
 
   ## **Daftar Isi**
 
-- **[Demo Aplikasi, Domain, dan Laporan](#demo-aplikasi-domain-dan-laporan)**<br>
-- **[Akses User Login](#akses-user-login)**<br>
-- **[Penjelasan Sistem Checklist Kebersihan Toilet](#penjelasan-sistem-checklist-kebersihan-toilet)**<br>
-- **[Peruntukan Sistem Checklist Kebersihan Toilet](#peruntukan-sistem-checklist-kebersihan-toilet)**<br>
-- **[Fitur-Fitur Website](#fitur-fitur-website)**<br>
-- **[Teknologi yang Digunakan](teknologi-yang-digunakan)**
-- **[Usecase Diagram](#usecase-diagram)**<br>
-- **[Wireframe Sistem Checklist Kebersihan Toilet](#wireframe-sistem-checklist-kebersihan-toilet)**<br>
-- **[Design Sistem Checklist Kebersihan Toilet](#design-sistem-checklist-kebersihan-toilet)**<br>
+
  
 <h2>Demo Aplikasi, Domain, dan Laporan</h2>
 
@@ -57,7 +49,7 @@ Aplikasi ini dibuat untuk membantu pengguna mencatat dan memantau pengeluaran me
 
 Pengguna dapat menambahkan, mengedit, dan menghapus catatan pengeluaran, serta melihat rekapitulasi pengeluaran berdasarkan kategori maupun tanggal. Dengan adanya visualisasi dan laporan, pengguna bisa menganalisis kebiasaan finansial mereka dan merencanakan pengeluaran dengan lebih bijak.
 
-## **Pengguna Individu:**
+## **Peruntukan Sistem Pencatatan Pengeluaran Pribadi**
 
 Sistem ini lebih ditujukan untuk:
 
