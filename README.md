@@ -1,5 +1,5 @@
 
-<h1 align="center" font-weight="bold"> UAS Sistem Checklist Kebersihan Toilet </h1>
+<h1 align="center" font-weight="bold"> UAS Sistem Pencatatan Pengeluaran Pribadi</h1>
 
 ```
 Matkul   : Pemrograman Web 2
