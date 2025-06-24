@@ -118,27 +118,27 @@ Sistem ini lebih ditujukan untuk:
 
 <h2>Penjelasan</h2>
 
-Aktor:
+**Aktor:**
 
 User: Pengguna sistem pencatatan pengeluaran pribadi
 
-Use Cases Utama:
+**Use Cases Utama:**
 
-Login - Proses autentikasi pengguna
-Akses Dashboard - Mengakses halaman utama sistem
-Tambah Data Pengeluaran - Mencatat pengeluaran baru
-Lihat Laporan - Melihat data pengeluaran yang telah dicatat
+1. Login - Proses autentikasi pengguna
+2. Akses Dashboard - Mengakses halaman utama sistem
+3. Tambah Data Pengeluaran - Mencatat pengeluaran baru
+4. Lihat Laporan - Melihat data pengeluaran yang telah dicatat
 
-Use Cases Pendukung:
+**Use Cases Pendukung:**
 
-Pilih Produk - Memilih produk yang dibeli
-Input Jumlah - Memasukkan jumlah pembelian
-Input Tanggal - Memasukkan tanggal transaksi
-Input Supplier - Memasukkan informasi supplier
-Simpan Data - Menyimpan data pengeluaran
-Kelola Stok Masuk - Mengelola stok barang masuk
-Update Jumlah Stok - Memperbarui jumlah stok
-Menyimpan Data Stok - Menyimpan data stok yang diperbarui
+1. Pilih Produk - Memilih produk yang dibeli
+2. Input Jumlah - Memasukkan jumlah pembelian
+3. Input Tanggal - Memasukkan tanggal transaksi
+4. Input Supplier - Memasukkan informasi supplier
+5. Simpan Data - Menyimpan data pengeluaran
+6. Kelola Stok Masuk - Mengelola stok barang masuk
+7. Update Jumlah Stok - Memperbarui jumlah stok
+8. Menyimpan Data Stok - Menyimpan data stok yang diperbarui
 
 
 # <h2>Wireframe Sistem Checklist Kebersihan Toilet<h2>
